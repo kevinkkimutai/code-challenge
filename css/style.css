@@ -1,0 +1,176 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap"); */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Sansita Swashed", cursive;
+}
+/* main container */
+.container {
+  width: 95%;
+  height: 98%;
+  justify-content: center;
+  border-radius: 50px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* boc containing all the displays */
+.box {
+ justify-content: center;
+  background: rgb(42, 31, 141);
+  border-radius: 50px;
+  float: left;
+  border: 3px solid rgb(255, 255, 255);
+  text-align: center;
+  background-color: rgb(233, 192, 165);
+  width: 32.525%;
+  justify-content: center;
+  text-align: center;
+  padding-top: 0px;
+
+}
+.bee {
+  width: 99%;
+}
+.outputbox {
+  height: 40px;
+
+}
+.output1 {
+  font-size: 50px;
+}
+output {
+  text-align: center;
+  font-weight: 100;
+}
+/* to be displayed on output */
+.outputbox span {
+  color: red;
+  font-size: 30px;
+}
+#markss {
+  padding-right: 20px;
+  padding-left: 10px;
+}
+#grade {
+  padding-left: 10px;
+}
+#out1 {
+  color: #000;
+}
+/* heading of the main box */
+.box h1 {
+  font-size: 1.5em;
+  color: #000;
+  letter-spacing: 5px;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+}
+.one{
+  padding-top: 20px;
+}
+.box .inputbox {
+ 
+  width: auto;
+  height: 70px;
+  margin-bottom: 50px;
+}
+/* for input section */
+.box .inputbox input {
+  width: 50%;
+  border: 3px solid rgb(3, 3, 3);
+  outline: none;
+  background: none;
+  padding: 10px;
+  border-radius: 50px;
+  font-size: 1.9em;
+  text-align: center;
+  font-weight: bolder;
+  background: #fff;
+}
+.box .inputbox:last-child {
+  margin-bottom: 0;
+}
+.box .inputbox span {
+  position: absolute;
+  top: 14px;
+  left: 20px;
+  font-size: 1em;
+  transition: 0.6s;
+  font-family: sans-serif;
+}
+/* button styling */
+button {
+  width: 50%;
+  background: dodgerblue;
+  color: #fff;
+  border: #fff;
+  height: 50px;
+  cursor: pointer;
+  border-radius: 50px;
+  font-size: 20px;
+  font-weight: bolder;
+  outline: none;
+}
+button:hover {
+  background: green;
+}
+
+/* salary.html css code*/
+.column {
+  float: left;
+  border: 2px solid white;
+  border-radius: 50px;
+  padding: 10px;
+  height: 100%;
+}
+.left {
+  width: 35%;
+  height: 100%;
+  background-color: aqua;
+  text-align: center;
+  float: inline-end;
+}
+/* div by class nhif */
+.nhif {
+  padding: 10px;
+  text-align: right;
+  padding-right: 20%;
+  padding-top: 5px;
+}
+.right {
+  width: 61%;
+  height: 100%;
+  background-color: aqua;
+}
+/* salary calculator input */
+ input {
+  width: 25%;
+  outline: none;
+  background: white;
+  padding: 10px;
+  border-radius: 50px;
+  border-color: rgb(0, 0, 0);
+  text-align: center;
+  font-weight: bold;
+}
+.sal {
+  padding: 10px;
+}
+label {
+  font-weight: bolder;
+}
+/* output displays */
+span {
+  color: rgb(255, 8, 8);
+  font-size: 1.5em;
+  font-weight: bolder;
+}

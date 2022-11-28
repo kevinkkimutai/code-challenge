@@ -1,0 +1,28 @@
+{
+  "name": "phase-1-code-challenge",
+  "version": "1.0.0",
+  "description": "Tackling a code challenge using html,css and javascript.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinkkimutai/phase-1-code-challenge.git"
+  },
+  "keywords": [
+    "function",
+    "if",
+    "statement",
+    "if-else",
+    "statement",
+    "rows & columns in html"
+  ],
+  "author": "Kelvin Kimutai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinkkimutai/phase-1-code-challenge/issues"
+  },
+  "homepage": "https://github.com/kevinkkimutai/phase-1-code-challenge#readme"
+}
