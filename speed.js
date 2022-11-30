@@ -17,6 +17,7 @@ function demerit () {
     else if (speed >= 130) {
         document.getElementById("limit").innerHTML = "Licence Suspended"
     }
+    else if (speed <= -1) {
+        document.getElementById("limit").innerHtml = "";
     
-
 }
