@@ -13,7 +13,8 @@ The project entails three javascript files:
 ## Installation
 You can run the project by either cloning it or forking it into a folder, once you have the project in the folder run the "index.html" in any browser of your choice.
 ## clonning command
-https://github.com/kevinkkimutai/code-challenge
+git clone https://github.com/kevinkkimutai/code-challenge
+
 The html file is linked to all the javascript files in the folder also the css file.
 ## Authors
 	Kelvin Kimutai
