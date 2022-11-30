@@ -6,16 +6,20 @@
 
 ## Description
 The project entails three javascript files: 
-1.index.html this handles the input and output values.
-2.index.js which run the students grade calculator
-3.speed.js which runs the speed detector.
-4.salary.js which runs the salary caclator.
+1.  The first challenge is a student grade generator program it has an input window for marks and  outputs grade using the javascript file index.js
+2.  
+3.  The second challenge is a speed detector program taking speed as input and outputs depending on the speed claculations done with speed.js
+4.  
+5)  The third challenge is a salary calculator program that takes gross salary as input and outputs the gross salary, NSSF, NHIF, PAYEE and net Salary calculated in the Salary.js
+
 ## Installation
-You can run the project by either cloning it or forking it into a folder, once you have the project in the folder run the "index.html" in any browser of your choice.
-## clonning command
-git clone https://github.com/kevinkkimutai/code-challenge
+You can run the project by :
+1. cloning it using the command: git clone https://github.com/kevinkkimutai/code-challenge
+2. forking it into a folder
+3. once you have the project in the folder run the "index.html" in any browser of your choice.
 
 The html file is linked to all the javascript files in the folder also the css file.
+
 ## Authors
 	Kelvin Kimutai
 - [@kevinkkimutai](https://www.github.com/kevinkkimutai)
