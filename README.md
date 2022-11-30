@@ -16,7 +16,8 @@ The project entails three javascript files:
 You can run the project by :
 1. cloning it using the command: git clone https://github.com/kevinkkimutai/code-challenge
 2. forking it into a folder
-3. once you have the project in the folder run the "index.html" in any browser of your choice.
+3. you can also use github pages to open the website. url: https://kevinkkimutai.github.io/code-challenge
+4. once you have the project in the folder run the "index.html" in any browser of your choice.
 
 The html file is linked to all the javascript files in the folder also the css file.
 
